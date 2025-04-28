@@ -1,1 +1,1 @@
-# pageserror
+# errorpage
